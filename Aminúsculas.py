@@ -1,0 +1,6 @@
+min = (" CAN WE PLEASE BUY A NEW SADDLE?").lower()
+print()
+print()
+print(min)
+print()
+print()
